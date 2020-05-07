@@ -68,5 +68,5 @@ In this step we perform tunnelling operation by ngrok for using our application 
 
 Ngrok is the software which converts the private IP to public IP.
 
-![](ngrok%20history.png)
+![](ngrok%20history.PNG)
 ![](Tunnelling.png)
